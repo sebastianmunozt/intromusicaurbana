@@ -10,7 +10,7 @@ Antes que nada:
 
 # Introducción: ¿Por qué la música urbana es importante y cómo problematizarla? 
 
-[`Aquí`](https://https://sebastianmunozt.github.io/intromusicaurbana/presentacion-que-es-la-musica-urbana-2#1) 
+[`Aquí`](https://https://sebastianmunozt.github.io/intromusicaurbana/blob/main/presentacion-que-es-la-musica-urbana-2#1) 
 
 ---
 
